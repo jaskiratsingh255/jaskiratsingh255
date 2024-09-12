@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jaskiratsingh255
+- 🐤i am 17 years old
 - 👀 I’m interested in programming languages and coding
 - 🌱 I’m currently learning c programming language 
 - 😄 Pronouns: he/him
