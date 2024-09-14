@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming languages and coding
 - 🌱 I’m currently learning c programming language 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am interovert 
+- ⚡ Fun fact: i am introvert 
 
 <!---
 jaskiratsingh255/jaskiratsingh255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
